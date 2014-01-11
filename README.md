@@ -7,3 +7,7 @@ Usage
 -----
 Include YoutubeDelayed.js and YoutubeDelayed.css (or minified versions) in page. Put the code: <code>&lt;div data-videoid="{Your Youtube video ID}" class="YoutubeDelayed"&gt;&lt;/div&gt;</code> 
 where you what the player to be displayed.
+
+Demo
+----
+http://mad-gooze.github.io/YoutubeDelayed.js
